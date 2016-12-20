@@ -52,7 +52,7 @@ Lo primero es lo primero: el primer programa de prueba!
 
 Y lo segundo... prueba a tocar algo de musica:
 
-1. Descarga el fichero "imperial_march.ino" de esta pagina
+1. Descarga el fichero "marcha_imperial.ino" de esta pagina
 2. Crea un directorio nuevo llamado "marcha_imperial" en MisDocumentos\Arduino\Sketches
 3. Copia el fichero imperial_march.ino dentro del nuevo directorio
 4. Cierra y vuelve a arrancar el IDE
