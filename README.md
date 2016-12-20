@@ -54,7 +54,7 @@ Y lo segundo... prueba a tocar algo de musica:
 
 1. Descarga el fichero "marcha_imperial.ino" de esta pagina
 2. Crea un directorio nuevo llamado "marcha_imperial" en MisDocumentos\Arduino\Sketches
-3. Copia el fichero imperial_march.ino dentro del nuevo directorio
+3. Copia el fichero marcha_imperial.ino dentro del nuevo directorio
 4. Cierra y vuelve a arrancar el IDE
 5. En la seccion de File -> Sketchbook deberia aparecer el elemento marcha_imperial. Abrelo.
 6. Pincha el zumbador negro en los PIN: GND y 11
