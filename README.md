@@ -37,6 +37,29 @@ Por ejemplo: "mira esta variable, y si es un 7 haz esto, y si no haz esto otro".
 Con Arduino, tu eres el que decide lo que el aparatejo tiene que hacer, por medio de un programa. El resultado suele ser que la electricidad se mueve de un sitio a otro, en funcion de lo que programes, encendiendo bombillitas, leyendo sensores de temperatura o tocando musica en un zumbador.
 Cuando instales el IDE (el programa que sirve para programar Arduinos) veras que viene con algunos programas de ejemplo que solo tienes que darle a un boton para probarlos. Echale un ojo a dichos programas e intenta entender como funcionan. Veras que en seguida puedes hacer tus propias modificaciones y, con el tiempo, escribir programas desde cero.
 
+### Primeros pasos
+
+Lo primero es lo primero: el primer programa de prueba!
+
+1. Descargate el IDE para tu ordenador (https://www.arduino.cc/en/Main/Software)
+2. Arranca el IDE (deberias tener un icono nuevo en el escritorio)
+3. Conecta el Arduino con el cable USB azul
+4. En el menu Tools, elige Board Arduino/Genuino UNO
+5. En el menu File -> Examples -> 01.Basic, elige el ejemplo "Blink"
+6. Dale al iconito redondo con una flecha a la derecha para meter el programa en el Arduino
+7. Observa como parpadea la luz.
+8. Prueba a cambiar los tiempos de espera entre encendido y apagado (delay) y repite los pasos 6 y 7.
+
+Y lo segundo... prueba a tocar algo de musica:
+
+1. Descarga el fichero "imperial_march.ino" de esta pagina
+2. Crea un directorio nuevo llamado "marcha_imperial" en MisDocumentos\Arduino\Sketches
+3. Copia el fichero imperial_march.ino dentro del nuevo directorio
+4. Cierra y vuelve a arrancar el IDE
+5. En la seccion de File -> Sketchbook deberia aparecer el elemento marcha_imperial. Abrelo.
+6. Pincha el zumbador negro en los PIN: GND y 11
+7. Dale al iconito redondo con una flecha a la derecha para meter el programa en el Arduino
+
 ### Documentacion Online
 
 Aqui termina la mini-introduccion al Arduino. Lo siguiente es que investigues por tu cuenta. Hay una serie de videos que pueden echarte una mano: https://www.youtube.com/watch?v=OSHJUkG8zW4
