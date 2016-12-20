@@ -5,9 +5,6 @@ Querido Santiago,
 Aqui te dejamos algo de documentacion para que puedas disfrutar de tu regalo por tu decimo cumpleanyos. 
 Esperamos que lo disfrutes, y no dudes en preguntarle a tu padre o escribir a Pablo si tienes preguntas.
 
-Un fuerte abrazo de tus primos,
-Esther y Pablo
-
 ## Mini-Guia rapida
 
 Queria aprovechar para hablarte de un par de cosas que rodean al Arduino que pueden parecer complicadas al principio, pero veras que no hace falta ser un experto para poder hacer cosas chulas.
@@ -62,10 +59,16 @@ Y lo segundo... prueba a tocar algo de musica:
 
 ### Documentacion Online
 
-Aqui termina la mini-introduccion al Arduino. Lo siguiente es que investigues por tu cuenta. Hay una serie de videos que pueden echarte una mano: https://www.youtube.com/watch?v=OSHJUkG8zW4
+Aqui termina la mini-introduccion al Arduino. Lo siguiente es que investigues por tu cuenta. Hay una serie de videos que pueden echarte una mano, lo mejor para empezar: https://www.youtube.com/watch?v=OSHJUkG8zW4
 
 Este video va bastante en detalle sobre la programacion de Arduino. No te preocupes si no lo entiendes todo desde el principio! https://www.youtube.com/watch?v=3BnS59Kg9DE
 
 Si quieres saber mas sobre programacion, puedes pedirle a tus padres que se miren este pagina y te cuenten: http://www.xataka.com/especiales/ninos-y-programacion-consejos-y-recursos-para-que-este-verano-se-inicien
+
+La documentacion oficial del Arduino esta en ingles: https://www.arduino.cc/en/Guide/HomePage
  
 Lo dicho, esperamos que lo disfrutes! Recuerda, experimenta por tu cuenta, pide ayuda cuando lo necesites, y recuerda que es un juguete y lo importante es pasarlo bien con el.
+
+Con todo nuestro carinyo,
+ Tus primos Esther y Pablo
+ Y tus sobrinos Valeria y Erik
